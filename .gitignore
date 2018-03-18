@@ -23,7 +23,13 @@
 .project
 out/
 .gradle/
+tictactoeclient/.gradle/
+tictactoeserver/.gradle/
+tictactoebot/.gradle/
+tictactoeclient/build/
+tictactoeserver/build/
+tictactoebot/build/
 build/
-
+tictactoe
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
